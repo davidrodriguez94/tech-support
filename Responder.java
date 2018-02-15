@@ -29,10 +29,10 @@ public class Responder
         responses.add("El Madrid ganó la liga pasada");
         responses.add("¡Que ganas de programar!");
         
-        responsesAboutInput.put("Bliblibli", "Blablabla");
-        responsesAboutInput.put("XXXXXXX","YYYYYYYY");
-        responsesAboutInput.put("Blubloblable","Blibloblublable");
-        responsesAboutInput.put("Hola buenos dias","Jelou");
+        responsesAboutInput.put("linux", "Our software is not designed to run on Linux");
+        responsesAboutInput.put("free","In the future we want to offer our software for free");
+        responsesAboutInput.put("windows","Our software runs perfectly on Windows");
+        responsesAboutInput.put("crash","Our software has a known bug, we are working on it");
     }
 
     /**
